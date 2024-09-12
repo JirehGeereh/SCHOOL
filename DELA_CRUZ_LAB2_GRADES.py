@@ -1,10 +1,3 @@
-# TWEESTUSDHFIUAHSDIUASHIDVAIKSYDGUYAS
-
-
-
-
-
-
 # Initialization for the final grade, equivalent, and student name.
 final_grade = 0
 equivalent_grade = 0
