@@ -1,5 +1,7 @@
 # please check for changes
 
+# yes there are changes i saw changes from line 1
+
 # Initialization for the Employee Name, Department, Net Income, Gross Income, Total Deduction, and Pag-ibig Contribution
 emp_name = ""
 department = ""
