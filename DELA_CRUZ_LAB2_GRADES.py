@@ -1,6 +1,9 @@
-# PAGBABAGO SA MGA CODE PAULIT ULIT UNA KAILANGAN ICLONE
+# TWEESTUSDHFIUAHSDIUASHIDVAIKSYDGUYAS
 
-# edit try if maipupull ito
+
+
+
+
 
 # Initialization for the final grade, equivalent, and student name.
 final_grade = 0
