@@ -1,3 +1,7 @@
+# PAGBABAGO SA MGA CODE PAULIT ULIT UNA KAILANGAN ICLONE
+
+
+
 # Initialization for the final grade, equivalent, and student name.
 final_grade = 0
 equivalent_grade = 0
